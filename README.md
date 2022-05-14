@@ -1,15 +1,13 @@
-# Welcome to my Profile!
+# Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![ReadMe Last Update Badge](https://badges.pufler.dev/updated/Andreag00/Andreag00)
 ![Profile Views](https://komarev.com/ghpvc/?username=Andreag00&style=flat)
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/Andreag00/Andreag00/?color=orange) -->
 
-## Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 - 🔭 I'm currently studying to get my Bachelor's degree in Aerospace Engineering at the [Politecnico di Milano](www.polimi.it). I'm also really passionate about technology as a whole, but telecommunications in particular and that's why I'm also one of the moderators for the [Fibra Click Forum](https://forum.fibra.click), the reference forum for italian telcos. 
 - 🤔 On GitHub I will publish the shortcuts I develop to use with the Shortucts app on iOS/iPadOS/macOS.
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <!-- ![Gists Badge](https://badges.pufler.dev/gists/Andreag00/?color=orange) -->
 ![Repos Badge](https://badges.pufler.dev/repos/Andreag00/?color=orange)
@@ -19,7 +17,7 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Andreag00&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
 
 
-### 📫 Where to find me
+## 📫 Where to find me
 
 If you are interested in my activities and you want to collaborate with me or provide me feedback, feel free to contact me!
 
