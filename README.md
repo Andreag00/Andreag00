@@ -11,14 +11,12 @@
 
 ### 📊 GitHub Statistics
 
-<!-- ![Gists Badge](https://badges.pufler.dev/gists/Andreag00/?color=white) -->
-![Repos Badge](https://badges.pufler.dev/repos/Andreag00/?color=white)
-![Commits Badge](https://badges.pufler.dev/commits/yearly/Andreag00/?color=white)
+<!-- ![Gists Badge](https://badges.pufler.dev/gists/Andreag00/?color=black) -->
+![Repos Badge](https://badges.pufler.dev/repos/Andreag00/?color=black)
+![Commits Badge](https://badges.pufler.dev/commits/yearly/Andreag00/?color=black)
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Andreag00&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Andreag00&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
-
-- [Some Stats about my GitHub Profile](https://gitstats.me/Andreag00)
 
 
 ### 📫 Where to find me
