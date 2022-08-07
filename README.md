@@ -1,6 +1,5 @@
 # Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![ReadMe Last Update Badge](https://badges.pufler.dev/updated/Andreag00/Andreag00)
 ![Profile Views](https://komarev.com/ghpvc/?username=Andreag00&style=flat)
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/Andreag00/Andreag00/?color=orange) -->
 
