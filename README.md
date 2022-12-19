@@ -18,7 +18,7 @@
 
 If you are interested in my activities and you want to collaborate with me or provide me feedback, feel free to contact me!
 
-- [Personal Website](https://andreagre.co)
+- [Personal Website](https://www.andreagre.co)
 - [LinkedIn](https://www.linkedin.com/in/andrea-greco-00/)
 - [Telegram](https://t.me/Andreag00)
 - [GitHub](https://github.com/Andreag00) (but you shouldn't need this one...)
