@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Andreag00&style=flat)
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/Andreag00/Andreag00/?color=orange) -->
 
-- 🔭 I'm currently studying to get my Bachelor's degree in Aerospace Engineering at the [Politecnico di Milano](https://www.polimi.it). I'm also really passionate about technology as a whole, but telecommunications in particular and that's why I'm one of the moderators for the [Fibra Click Forum](https://forum.fibra.click), the reference forum for italian telcos. 
-- 🤔 On GitHub I will publish the shortcuts I develop to use with the Shortucts app on iOS/iPadOS/macOS.
+- 🔭 I'm currently a Fixed Access Network engineer at Aruba.it, while also studying to finish my Bachelor's degree in Aerospace Engineering at the [Politecnico di Milano](https://www.polimi.it). I spend most of my day working on anything related to telecommunications, but also enjoy self-hosting projects and IT administration.
+- 🤔 On GitHub I will mostly publish shortcuts I develop to use with the Shortucts app on iOS/iPadOS/macOS.
 
 ## 📊 GitHub Statistics
 
